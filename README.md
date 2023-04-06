@@ -1,5 +1,9 @@
 # Resume
 The following code is a completed project from my AP Computer Science Course regarding 2D arrays.
+This was created in IntelliJ IDEA
+
+(If you want to play, please download Main.java, Room.java, and Board.java)
+
 It is a 5 by 5 index long 2D array game inspired by my Dungeons & Dragons Campagin I am running.
 
 The goal of a game is to catch a thief you cannot see. You and the thief take turns moving. The thief has it's own "AI" that moves according to the player. Every turn, you can do the following:
